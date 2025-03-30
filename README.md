@@ -1,6 +1,10 @@
 # olympic-history-dataset
 Comprehensive Athlete-Level Results from Athens 1896 to Beijing 2022
 
+For a visual overview of the dataset’s structure:
+
+![Data Schema](olympic-dataset-schema.png)
+
 About Dataset
 
 This dataset presents a comprehensive archive of Olympic history, spanning 126 years from the first modern Olympic Games in Athens in 1896 to the Beijing Winter Olympics. It provides athlete-level results, detailed biographical information, and performance metrics, making it a valuable resource for sports analysts, data enthusiasts, researchers, and historians.
@@ -22,12 +26,4 @@ Usage and Applications:
 
 Data Source and Validation:
 
-The data is sourced from Olympedia.org, a well-respected repository of Olympic history maintained by a dedicated community of Olympic historians and statisticians. The dataset has been validated through careful comparison with official Olympic records, including medal tallies, to ensure accuracy. It is up-to-date, providing a reliable resource for exploring Olympic data across the entire history of the Games.
-Schema:
-
-For a visual overview of the dataset’s structure, please refer to the data schema below:
-
-![Data Schema](olympic-dataset-schema.png)
-
-
-This schema outlines the relationships between different tables and fields within the dataset, helping users understand how to navigate and utilize the data effectively.
+The data is sourced from kaggle.com which was taken from Olympedia.org, a well-respected repository of Olympic history maintained by a dedicated community of Olympic historians and statisticians. The dataset has been validated through careful comparison with official Olympic records, including medal tallies, to ensure accuracy. It is up-to-date, providing a reliable resource for exploring Olympic data across the entire history of the Games.
